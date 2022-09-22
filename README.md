@@ -1,9 +1,9 @@
 # cpnt260-a1
-
+## Info
 ### Course title : CPNT260
 ### Assignment name : Assignment 1 - Text Column
 ### Author name : Rustu Mesut Eser
-### A link to the GH Pages site : 
+### A link to the GH Pages site : https://silentchallenger.github.io/cpnt260-a1/
 
 ### Above and Beyond
 - Image --- line 81
